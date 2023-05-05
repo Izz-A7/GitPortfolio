@@ -1,0 +1,11 @@
+Model Information:
+* title:	Discarded Monitor
+* source:	https://sketchfab.com/3d-models/discarded-monitor-cc9ac470824a42cbada55d59480f8fd8
+* author:	Kish San (https://sketchfab.com/kishsan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Discarded Monitor" (https://sketchfab.com/3d-models/discarded-monitor-cc9ac470824a42cbada55d59480f8fd8) by Kish San (https://sketchfab.com/kishsan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
