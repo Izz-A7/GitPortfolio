@@ -167,12 +167,25 @@ import {
         "Demonstrated a deep understanding of mathematical concepts, allowing for effective instruction and guidance to help students achieve their goals.",
       ],
     },
+    {
+      title: "Web Developer",
+      company_name: "Western University",
+      icon: calc,
+      iconBg: "#E6DEDD",
+      date: "Oct 2023 - Present",
+      points: [
+        "Creating engaging and informative web pages for various research departments. This includes conceptualizing layouts, integrating content, and ensuring a user-friendly experience.",
+        "Working closely with research teams to accurately translate their work and achievements into compelling digital narratives. This collaboration is key to presenting the research in a manner that is both accessible and engaging to a broader audience.",
+        "Ensuring that all web pages are responsive and accessible, adhering to the latest web standards and best practices. This includes optimizing for different devices and ensuring compliance with accessibility guidelines.",
+        "Utilizing content management systems to update and manage web content effectively, ensuring that the latest research findings and departmental updates are reflected promptly and accurately.",
+      ],
+    },  
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        " ",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
