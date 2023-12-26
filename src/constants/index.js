@@ -170,8 +170,8 @@ import {
     {
       title: "Web Developer",
       company_name: "Western University",
-      icon: calc,
-      iconBg: "#E6DEDD",
+      icon: western,
+      iconBg: "#383E56",
       date: "Oct 2023 - Present",
       points: [
         "Creating engaging and informative web pages for various research departments. This includes conceptualizing layouts, integrating content, and ensuring a user-friendly experience.",
